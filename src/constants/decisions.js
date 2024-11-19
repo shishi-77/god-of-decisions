@@ -248,3 +248,5 @@ const decisions = [
     en: "Don't blame yourself",
   }
 ]
+
+export default decisions
