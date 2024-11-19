@@ -4,6 +4,7 @@ import path from 'path'
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: '/god-of-decisions/',
   plugins: [vue()],
   resolve: {
     alias: {
