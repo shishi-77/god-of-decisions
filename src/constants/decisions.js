@@ -246,6 +246,22 @@ const decisions = [
   {
     vi: "Đừng đổ lỗi cho chính mình",
     en: "Don't blame yourself",
+  },
+  {
+    vi: "Ưu tiên những gì là quan trọng",
+    en: "Get your priorities straight",
+  },
+  {
+    vi: "Có",
+    en: "Yes!",
+  },
+  {
+    vi: "Cam kết càng mạnh mẽ, càng dễ thành công",
+    en: "The stronger you commit, the more likely you are to succeed",
+  },
+  {
+    vi: "Kiểm soát cảm xúc",
+    en: "Emotional control",
   }
 ]
 
